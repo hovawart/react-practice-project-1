@@ -1,5 +1,6 @@
 {
   "name": "react-key-concepts",
+  "homepage": "https://hovawart.github.io/react-practice-project-1/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "BUILD_PATH='./docs' react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
